@@ -1,8 +1,8 @@
 {
- "build": 3,
- "version": "0.2.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-3.pck",
- "pck_sha256": "b186d0dae889107efbc28295cd64c4230f80f29d88a11f2d8ed286e3a465d146",
- "pck_size": 7800980,
- "notes": "First release with the in-game updater. Camera control, dodge, bigger Banira and Jogari, Jogari's head fix."
+ "build": 4,
+ "version": "0.3.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-4.pck",
+ "pck_sha256": "3a9c75e9536a4fc3105c2c2450c1568e8fe9fdce6d3e8c1f351cd54d9ab0cba4",
+ "pck_size": 7859352,
+ "notes": "Two new monsters: Hylon the Jaguar Beetle and Kabocha the Harvest Horror."
 }

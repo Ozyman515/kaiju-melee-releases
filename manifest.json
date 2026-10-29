@@ -1,8 +1,8 @@
 {
- "build": 4,
- "version": "0.3.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-4.pck",
- "pck_sha256": "3a9c75e9536a4fc3105c2c2450c1568e8fe9fdce6d3e8c1f351cd54d9ab0cba4",
- "pck_size": 7859352,
- "notes": "Two new monsters: Hylon the Jaguar Beetle and Kabocha the Harvest Horror."
+ "build": 5,
+ "version": "0.3.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-5.pck",
+ "pck_sha256": "791bebb3c22c5d4d461fa334d80be873166406dc9fbb3ec5a25b393f2daa5f1c",
+ "pck_size": 7860168,
+ "notes": "Kabocha now drags its giant gourd behind it, with much thicker vine arms."
 }

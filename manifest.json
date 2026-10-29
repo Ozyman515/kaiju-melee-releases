@@ -1,8 +1,8 @@
 {
- "build": 7,
- "version": "0.4.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-7.pck",
- "pck_sha256": "09132686e7f3f37b139754d45943ca906a947ec13fa303c35b55c4cd1918d20f",
- "pck_size": 8210496,
- "notes": "Elemental damage (freeze, shock, burn, acid) and the army: tanks, helicopters and jets to squash."
+ "build": 8,
+ "version": "0.5.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-8.pck",
+ "pck_sha256": "cab642f7791de1a1ee84c3948f852ec18d3497adcdccb0d231478e54514006a2",
+ "pck_size": 8219704,
+ "notes": "New monster Samedon the land shark; Kabocha reworked as a legless dragger; beams lock on and can clash."
 }

@@ -1,8 +1,8 @@
 {
- "build": 6,
- "version": "0.3.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-6.pck",
- "pck_sha256": "d008db05617287cd1ac7d9d92febe6da316a311415c49730c3af4f64f9aed00f",
- "pck_size": 7859416,
- "notes": "Kabocha reshaped: stem horns, a leaf mane and one big fat squash body."
+ "build": 7,
+ "version": "0.4.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-7.pck",
+ "pck_sha256": "09132686e7f3f37b139754d45943ca906a947ec13fa303c35b55c4cd1918d20f",
+ "pck_size": 8210496,
+ "notes": "Elemental damage (freeze, shock, burn, acid) and the army: tanks, helicopters and jets to squash."
 }

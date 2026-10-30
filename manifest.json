@@ -1,8 +1,8 @@
 {
- "build": 14,
- "version": "0.7.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-14.pck",
- "pck_sha256": "5d8e4319c6787b1f19624a916efe768c473e0c94829c2716fefa8ddabaef5ceb",
- "pck_size": 8262488,
- "notes": "Samedon's flying fish is silver-blue with iridescent red fin rays and no longer glows; Banira's bee has a yellow head."
+ "build": 15,
+ "version": "0.8.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-15.pck",
+ "pck_sha256": "68e1fbb10af2a76c1ee25910beb27e4702e26ade94f3a72bd91e1ffa9e51ee42",
+ "pck_size": 8264024,
+ "notes": "Monsters are now in classes: titans (King Gaboon, Hylon), kaiju (Banira, Jogari) and gargantuans (Tlaxochar, Kabocha), sharing size, speed, power and moves within a class. The shark is now Tlaxochar. Buddy tokens are now ally tokens."
 }

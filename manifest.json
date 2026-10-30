@@ -1,8 +1,8 @@
 {
- "build": 10,
- "version": "0.5.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-10.pck",
- "pck_sha256": "b5ee85f1a7f87be87316fadb12f0713d7eee8e02eec6663d79c9aed833f69c6b",
- "pck_size": 8224776,
- "notes": "Hylon's tail is now a lobster tail with a jaguar tail fan; the draggers are now the biggest, then Banira and Jogari, then Gaboon and Hylon; Banira breathes an aurora beam."
+ "build": 11,
+ "version": "0.6.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-11.pck",
+ "pck_sha256": "b8903388cdb607b588d5048bf9be5bf1af34d7df826e9643bb870e5c44e325dc",
+ "pck_size": 8248564,
+ "notes": "Buddy kaiju: win the match and your monster's buddy swoops in after the final blow (bee, bird, dragon, dragon-scorpion-fly, flying fish, bat-winged opossum)."
 }

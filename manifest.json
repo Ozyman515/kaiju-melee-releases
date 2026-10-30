@@ -1,8 +1,8 @@
 {
- "build": 9,
- "version": "0.5.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-9.pck",
- "pck_sha256": "30f8285ec54a3b953c36bc7d91b27435fa23f0281b2826ab92ac87d69341e337",
- "pck_size": 8223048,
- "notes": "Draggers get a big lunging CHOMP; Gaboon and Hylon finish combos with a tail swipe; Hylon has his tail; Banira is as big as Jogari; fireballs lock on like beams."
+ "build": 10,
+ "version": "0.5.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-10.pck",
+ "pck_sha256": "b5ee85f1a7f87be87316fadb12f0713d7eee8e02eec6663d79c9aed833f69c6b",
+ "pck_size": 8224776,
+ "notes": "Hylon's tail is now a lobster tail with a jaguar tail fan; the draggers are now the biggest, then Banira and Jogari, then Gaboon and Hylon; Banira breathes an aurora beam."
 }

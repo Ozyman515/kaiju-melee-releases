@@ -1,8 +1,8 @@
 {
- "build": 13,
- "version": "0.7.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-13.pck",
- "pck_sha256": "c453d3491ca8521f90fcef8bcbec1de457d57c6f9e77bd93ba2a5974733c01e7",
- "pck_size": 8262120,
- "notes": "The winner's buddy victory flyover is back: after the match-winning blow it dives past the loser and hovers at the winner's shoulder. Buddy assists (tokens, summon, revive) are unchanged."
+ "build": 14,
+ "version": "0.7.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-14.pck",
+ "pck_sha256": "5d8e4319c6787b1f19624a916efe768c473e0c94829c2716fefa8ddabaef5ceb",
+ "pck_size": 8262488,
+ "notes": "Samedon's flying fish is silver-blue with iridescent red fin rays and no longer glows; Banira's bee has a yellow head."
 }

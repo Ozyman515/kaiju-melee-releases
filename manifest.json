@@ -1,8 +1,8 @@
 {
- "build": 12,
- "version": "0.7.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-12.pck",
- "pck_sha256": "61192fb83ae84371ee7c7958b440ea061693058108b418e0ededded2f19f2584",
- "pck_size": 8260104,
- "notes": "Buddy kaiju are now assists: find the buddy token hidden in a building each round, then summon your buddy to attack (View/Back, R3, T) or hold it and it revives you when you're KO'd (20% health, 3.5s invincible). The end-of-match flyover is gone."
+ "build": 13,
+ "version": "0.7.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-13.pck",
+ "pck_sha256": "c453d3491ca8521f90fcef8bcbec1de457d57c6f9e77bd93ba2a5974733c01e7",
+ "pck_size": 8262120,
+ "notes": "The winner's buddy victory flyover is back: after the match-winning blow it dives past the loser and hovers at the winner's shoulder. Buddy assists (tokens, summon, revive) are unchanged."
 }

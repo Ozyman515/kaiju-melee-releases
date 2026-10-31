@@ -1,8 +1,8 @@
 {
- "build": 29,
- "version": "0.14.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-29.pck",
- "pck_sha256": "e3cc3a62f094cd21e86f54c4fc17f0c85844a062434690364c7806969fe57f6c",
- "pck_size": 8875980,
- "notes": "Bone Crow: no back legs, he drags himself on his front legs alone; his horns no longer count toward his height. Gargantuan breath now does straight damage, with no status effect."
+ "build": 30,
+ "version": "0.14.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-30.pck",
+ "pck_sha256": "1a64b41fafd7845fadbaa7e7dc705e83658019309a5243c0119de81fbd820917",
+ "pck_size": 8875404,
+ "notes": "All allies now work the same for now: three plain-hit dives (the last knocks them down), no element or status."
 }

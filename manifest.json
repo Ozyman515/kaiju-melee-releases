@@ -1,8 +1,8 @@
 {
- "build": 32,
- "version": "0.15.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-32.pck",
- "pck_sha256": "29d57e5fe685185b54b0d96be24935db4e275484292e66920d18dd0b49a18b95",
- "pck_size": 8887808,
- "notes": "Beams and gargantuan breath now knock buildings apart like the fireballs and shells do: they blast in quick bursts that throw the broken pieces."
+ "build": 33,
+ "version": "0.15.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-33.pck",
+ "pck_sha256": "3e4da3588fbbbfc89eabbbe5afdf38e269fbcbaf635d2e9432c0102b952b179e",
+ "pck_size": 9033868,
+ "notes": "BB-61 is bigger: his head's mast and radar no longer count toward his height, so his body stands as tall as the gargantuans."
 }

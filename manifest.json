@@ -1,8 +1,8 @@
 {
- "build": 23,
- "version": "0.12.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-23.pck",
- "pck_sha256": "7f7cf69bddb914c295dd5d04f13a2fbe89395d03d919c2d940fb15a2c0f58aef",
- "pck_size": 8861276,
- "notes": "BB-61's decks (the walking floor of the bow and stern) are now dark like his joints, so his head stands out. The longhorn bear has an angular bull's skull."
+ "build": 24,
+ "version": "0.12.3",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-24.pck",
+ "pck_sha256": "47cbb8d4a33bf4727c6c5423aac6d6e07e76f362509aff98508703bf3d36614e",
+ "pck_size": 8861772,
+ "notes": "The V8 dragon's torso is now entirely a big V8 engine (limbs, neck and dragon head bolted on). The longhorn bear has angry solid yellow triangle eyes."
 }

@@ -1,8 +1,8 @@
 {
- "build": 31,
- "version": "0.15.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-31.pck",
- "pck_sha256": "6d6ed8c0824fa29485203ccf1efef7df86e2087299448e51ea4a2d4c0f3cb574",
- "pck_size": 8887520,
- "notes": "Easter egg: enter the Konami code outside a fight to turn the stage into the Lofi Room's city (again to switch back). BB-61: the bottom of the stern is closed in red, and the propellers are grey."
+ "build": 32,
+ "version": "0.15.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-32.pck",
+ "pck_sha256": "29d57e5fe685185b54b0d96be24935db4e275484292e66920d18dd0b49a18b95",
+ "pck_size": 8887808,
+ "notes": "Beams and gargantuan breath now knock buildings apart like the fireballs and shells do: they blast in quick bursts that throw the broken pieces."
 }

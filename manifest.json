@@ -1,8 +1,8 @@
 {
- "build": 30,
- "version": "0.14.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-30.pck",
- "pck_sha256": "1a64b41fafd7845fadbaa7e7dc705e83658019309a5243c0119de81fbd820917",
- "pck_size": 8875404,
- "notes": "All allies now work the same for now: three plain-hit dives (the last knocks them down), no element or status."
+ "build": 31,
+ "version": "0.15.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-31.pck",
+ "pck_sha256": "6d6ed8c0824fa29485203ccf1efef7df86e2087299448e51ea4a2d4c0f3cb574",
+ "pck_size": 8887520,
+ "notes": "Easter egg: enter the Konami code outside a fight to turn the stage into the Lofi Room's city (again to switch back). BB-61: the bottom of the stern is closed in red, and the propellers are grey."
 }

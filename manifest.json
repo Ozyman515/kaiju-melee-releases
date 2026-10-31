@@ -1,8 +1,8 @@
 {
- "build": 26,
- "version": "0.13.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-26.pck",
- "pck_sha256": "0c407f09a19fed1a149e5e114d0a16288e0a331351d476b3db2b62cb9e8ec1ff",
- "pck_size": 8866696,
- "notes": "The crayfish kaiju has eyes: glossy black, bulging from the top of his shell under angry brows."
+ "build": 27,
+ "version": "0.13.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-27.pck",
+ "pck_sha256": "e7cfba8f9e9ebc4e765c7de90b22faff7abd5c347a3c111b612173579b8093b8",
+ "pck_size": 8868136,
+ "notes": "The crayfish kaiju is orange with a tan underside in game again; the V8 dragon has blocky horns and roars like a muscle car revving; Tlaxochar is taller; the win text is stacked (name, then WINS! beneath) so it fits."
 }

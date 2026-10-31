@@ -1,8 +1,8 @@
 {
- "build": 21,
- "version": "0.12.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-21.pck",
- "pck_sha256": "2ac6dd35d874e26aa78f8ffbcea655e8170ddf985b6ec9076a15df358f190510",
- "pck_size": 8860252,
- "notes": "New monster: the longhorn bear (titan; green bile ball that leaves them poisoned; the bulbul as his ally for now). The V8 dragon's engine sits deeper in a shorter body with a neck up to his head; BB-61's head is smaller; the crayfish kaiju has the flying fish as his ally for now."
+ "build": 22,
+ "version": "0.12.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-22.pck",
+ "pck_sha256": "66f1ca53c9208b162eb7df50228e5084a34f434851f89870ae41507b3c319e1f",
+ "pck_size": 8861276,
+ "notes": "The longhorn bear's head is now an angular bull's skull leading down to his bear snout."
 }

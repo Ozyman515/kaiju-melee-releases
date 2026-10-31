@@ -1,8 +1,8 @@
 {
- "build": 19,
- "version": "0.10.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-19.pck",
- "pck_sha256": "2d2c0ff8283831760ba501e41a707b2de02b18404ad3724481ea3d400cf739de",
- "pck_size": 8840596,
- "notes": "Two new monsters: the crayfish kaiju (bubble beam that foams and slows; name to come) and BB-61 the battleship mech, first of the new colossus class (shells from both shoulders in three salvos), with its F-35 V-formation ally."
+ "build": 20,
+ "version": "0.11.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-20.pck",
+ "pck_sha256": "5f88727ca9faa4ebab4341f94d8e46e5f31b5b764db22ed26c363f86942ba6e2",
+ "pck_size": 8851992,
+ "notes": "New monster: the V8 dragon (titan; black smoke ball that leaves them sizzling) with his drone wyvern ally. BB-61's stern now sits snug behind his head; the crayfish's claws are a bit smaller; the bubble beam is slimmer."
 }

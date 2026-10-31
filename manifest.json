@@ -1,8 +1,8 @@
 {
- "build": 20,
- "version": "0.11.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-20.pck",
- "pck_sha256": "5f88727ca9faa4ebab4341f94d8e46e5f31b5b764db22ed26c363f86942ba6e2",
- "pck_size": 8851992,
- "notes": "New monster: the V8 dragon (titan; black smoke ball that leaves them sizzling) with his drone wyvern ally. BB-61's stern now sits snug behind his head; the crayfish's claws are a bit smaller; the bubble beam is slimmer."
+ "build": 21,
+ "version": "0.12.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-21.pck",
+ "pck_sha256": "2ac6dd35d874e26aa78f8ffbcea655e8170ddf985b6ec9076a15df358f190510",
+ "pck_size": 8860252,
+ "notes": "New monster: the longhorn bear (titan; green bile ball that leaves them poisoned; the bulbul as his ally for now). The V8 dragon's engine sits deeper in a shorter body with a neck up to his head; BB-61's head is smaller; the crayfish kaiju has the flying fish as his ally for now."
 }

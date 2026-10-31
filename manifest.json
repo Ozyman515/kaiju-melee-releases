@@ -1,8 +1,8 @@
 {
- "build": 25,
- "version": "0.13.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-25.pck",
- "pck_sha256": "29d5c0aa5d232019344d8440f2385a20ddb5f877ffecbef987a62358fc97ffca",
- "pck_size": 8866504,
- "notes": "Shiny forms: every monster has its own disgusting alternate colours. Press up/down on the select screen to pick it (\u2605); in a mirror match the second player gets the other colours automatically. The viewer shows them too."
+ "build": 26,
+ "version": "0.13.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-26.pck",
+ "pck_sha256": "0c407f09a19fed1a149e5e114d0a16288e0a331351d476b3db2b62cb9e8ec1ff",
+ "pck_size": 8866696,
+ "notes": "The crayfish kaiju has eyes: glossy black, bulging from the top of his shell under angry brows."
 }

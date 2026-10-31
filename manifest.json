@@ -1,8 +1,8 @@
 {
- "build": 24,
- "version": "0.12.3",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-24.pck",
- "pck_sha256": "47cbb8d4a33bf4727c6c5423aac6d6e07e76f362509aff98508703bf3d36614e",
- "pck_size": 8861772,
- "notes": "The V8 dragon's torso is now entirely a big V8 engine (limbs, neck and dragon head bolted on). The longhorn bear has angry solid yellow triangle eyes."
+ "build": 25,
+ "version": "0.13.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-25.pck",
+ "pck_sha256": "29d5c0aa5d232019344d8440f2385a20ddb5f877ffecbef987a62358fc97ffca",
+ "pck_size": 8866504,
+ "notes": "Shiny forms: every monster has its own disgusting alternate colours. Press up/down on the select screen to pick it (\u2605); in a mirror match the second player gets the other colours automatically. The viewer shows them too."
 }

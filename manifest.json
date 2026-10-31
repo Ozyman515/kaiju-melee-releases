@@ -1,8 +1,8 @@
 {
- "build": 16,
- "version": "0.8.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-16.pck",
- "pck_sha256": "c66d272e9aa598d5f3db4d65b0ad1015d69e10cc01185618d5e8c83ad049f1ee",
- "pck_size": 8265816,
- "notes": "The headbutt is now a titan class move (King Gaboon has it too); monsters can't have unique moves. Gooed is now Corroded. Gargantuan breath is 4.5x thicker: Kabocha belches a pillar of fire, Tlaxochar a torrent of water."
+ "build": 17,
+ "version": "0.9.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-17.pck",
+ "pck_sha256": "0d0d74d20fbab212d01e100aa3802cc309bb4681a30e1424b5cea3521b80915b",
+ "pck_size": 8278068,
+ "notes": "New MONSTER VIEWER on the title screen: every monster and its ally on a turntable with their class, stats and description; cycle poses including their specials. Kabocha's fire pillar no longer washes out to white."
 }

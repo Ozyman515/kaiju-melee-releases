@@ -1,8 +1,8 @@
 {
- "build": 27,
- "version": "0.13.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-27.pck",
- "pck_sha256": "e7cfba8f9e9ebc4e765c7de90b22faff7abd5c347a3c111b612173579b8093b8",
- "pck_size": 8868136,
- "notes": "The crayfish kaiju is orange with a tan underside in game again; the V8 dragon has blocky horns and roars like a muscle car revving; Tlaxochar is taller; the win text is stacked (name, then WINS! beneath) so it fits."
+ "build": 28,
+ "version": "0.14.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-28.pck",
+ "pck_sha256": "f18dcfd0b0ce2d04627764f3c8e5877068ed76e14d18c4a2f854615d230edacf",
+ "pck_size": 8876268,
+ "notes": "New gargantuan: the Bone Crow (name to come), a mass of bone and black feathers dragging itself on two bony legs, crow skull with dragon horns, dark fire breath that burns. Shiny forms are now called Alt forms."
 }

@@ -1,8 +1,8 @@
 {
- "build": 28,
- "version": "0.14.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-28.pck",
- "pck_sha256": "f18dcfd0b0ce2d04627764f3c8e5877068ed76e14d18c4a2f854615d230edacf",
- "pck_size": 8876268,
- "notes": "New gargantuan: the Bone Crow (name to come), a mass of bone and black feathers dragging itself on two bony legs, crow skull with dragon horns, dark fire breath that burns. Shiny forms are now called Alt forms."
+ "build": 29,
+ "version": "0.14.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-29.pck",
+ "pck_sha256": "e3cc3a62f094cd21e86f54c4fc17f0c85844a062434690364c7806969fe57f6c",
+ "pck_size": 8875980,
+ "notes": "Bone Crow: no back legs, he drags himself on his front legs alone; his horns no longer count toward his height. Gargantuan breath now does straight damage, with no status effect."
 }

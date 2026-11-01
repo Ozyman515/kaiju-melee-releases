@@ -1,8 +1,8 @@
 {
- "build": 36,
- "version": "0.18.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-36.pck",
- "pck_sha256": "b68e7ac2d4ec4c89c856625860c61729873c63653ecdcc8604dada5d909d00d9",
- "pck_size": 19269956,
- "notes": "Banira has a brand-new model: the owner's detailed Tripo Banira on its 35-bone skeleton. She bends smoothly (neck, tail, legs), opens her mouth to roar and bite, and her ice crest stays solid."
+ "build": 37,
+ "version": "0.19.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-37.pck",
+ "pck_sha256": "6e75c52e744665b40890c4fd312b53379dc08e2b1c9e07503effaa03d04e95e4",
+ "pck_size": 22901844,
+ "notes": "King Gaboon has a brand-new model: the detailed Tripo mandrill from the creature pack, with a fresh rig. He moves exactly like before, opens his mouth to roar, and his alt form is a clear reddish mauve."
 }

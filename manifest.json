@@ -1,8 +1,8 @@
 {
- "build": 34,
- "version": "0.16.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-34.pck",
- "pck_sha256": "db84228501ff014f9fc90548f0cf52a34781e524de8554e553ac11a07b8a06d6",
- "pck_size": 9043604,
- "notes": "New titan: the Tiger Snapper (name to come), a tiger under an alligator snapping turtle's spiked shell, with a platypus's bill, crocodile-scaled legs and a spiked tail."
+ "build": 35,
+ "version": "0.17.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-35.pck",
+ "pck_sha256": "71708d443c9bf3589b269da5157bdeed1f115b8db6e223054a6a6b2c044a4780",
+ "pck_size": 14091528,
+ "notes": "New kaiju: the ice crystal reptile (name to come), the owner's own model, rigged with a real skeleton so he bends smoothly. A freezing beam."
 }

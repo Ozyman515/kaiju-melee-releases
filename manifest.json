@@ -1,8 +1,8 @@
 {
- "build": 40,
- "version": "0.22.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-40.pck",
- "pck_sha256": "fc7e14e6f21e191f3fea0fb263e5f3cb2d6d23c8bd00e4985b141210e5ee98ee",
- "pck_size": 40596780,
- "notes": "v0.22.0: the allies (bee, bird, dragon, bat, dragonfly, flying fish, drone wyvern) now use the owner's Tripo models."
+ "build": 41,
+ "version": "0.23.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-41.pck",
+ "pck_sha256": "5db7eb31de93e611966b06c6ecacfe9534cbd3d3af516506aec0ced0b7399da7",
+ "pck_size": 42354788,
+ "notes": "v0.23.0: a new kaiju, the Opabinia (name to come), with a psychic wave beam that shoves foes back."
 }

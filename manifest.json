@@ -1,8 +1,8 @@
 {
- "build": 38,
- "version": "0.20.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-38.pck",
- "pck_sha256": "2414a2beca773b8a17b4c0eb63d9efe4166c5c5114cfe6491de2a0cae9b58a75",
- "pck_size": 26422288,
- "notes": "Kabocha has a brand-new model: the detailed Tripo pumpkin root beast, re-rigged to drag his gourd like before. Alt forms now properly recolour the new detailed models (Banira, Gaboon, Kabocha, the ice reptile)."
+ "build": 39,
+ "version": "0.21.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-39.pck",
+ "pck_sha256": "10ce536e979e4c252ac0607bfe55dcb747c535f386b7350c9c1907bc3c51f3b5",
+ "pck_size": 30417544,
+ "notes": "v0.21.0: Hylon, the Longhorn Bear, the Tiger Snapper, Tlaxochar, the Bone Crow, the V8 Dragon, BB-61 and the Crayfish Kaiju now use the owner's Tripo models, re-rigged to fight on their own joints."
 }

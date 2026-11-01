@@ -1,8 +1,8 @@
 {
- "build": 39,
- "version": "0.21.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-39.pck",
- "pck_sha256": "10ce536e979e4c252ac0607bfe55dcb747c535f386b7350c9c1907bc3c51f3b5",
- "pck_size": 30417544,
- "notes": "v0.21.0: Hylon, the Longhorn Bear, the Tiger Snapper, Tlaxochar, the Bone Crow, the V8 Dragon, BB-61 and the Crayfish Kaiju now use the owner's Tripo models, re-rigged to fight on their own joints."
+ "build": 40,
+ "version": "0.22.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-40.pck",
+ "pck_sha256": "fc7e14e6f21e191f3fea0fb263e5f3cb2d6d23c8bd00e4985b141210e5ee98ee",
+ "pck_size": 40596780,
+ "notes": "v0.22.0: the allies (bee, bird, dragon, bat, dragonfly, flying fish, drone wyvern) now use the owner's Tripo models."
 }

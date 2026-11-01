@@ -1,8 +1,8 @@
 {
- "build": 37,
- "version": "0.19.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-37.pck",
- "pck_sha256": "6e75c52e744665b40890c4fd312b53379dc08e2b1c9e07503effaa03d04e95e4",
- "pck_size": 22901844,
- "notes": "King Gaboon has a brand-new model: the detailed Tripo mandrill from the creature pack, with a fresh rig. He moves exactly like before, opens his mouth to roar, and his alt form is a clear reddish mauve."
+ "build": 38,
+ "version": "0.20.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-38.pck",
+ "pck_sha256": "2414a2beca773b8a17b4c0eb63d9efe4166c5c5114cfe6491de2a0cae9b58a75",
+ "pck_size": 26422288,
+ "notes": "Kabocha has a brand-new model: the detailed Tripo pumpkin root beast, re-rigged to drag his gourd like before. Alt forms now properly recolour the new detailed models (Banira, Gaboon, Kabocha, the ice reptile)."
 }

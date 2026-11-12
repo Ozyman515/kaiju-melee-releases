@@ -1,8 +1,8 @@
 {
- "build": 42,
- "version": "0.24.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-42.pck",
- "pck_sha256": "ac78c0f9924ed3e1a7ad15de1a57677d0a5f71b6014cdee6d20a74b201ba0433",
- "pck_size": 42354756,
- "notes": "v0.24.0: every monster and ally fights on its hand-built model again; the ice crystal reptile and the Opabinia are out until their hand-built models are ready."
+ "build": 43,
+ "version": "0.25.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-43.pck",
+ "pck_sha256": "6e5f42da093200cb63a08ac3598f40354919ae105d090d95a865802a5533cc1a",
+ "pck_size": 42368796,
+ "notes": "v0.25.0: the Ice Crystal Reptile and the Opabinia are back, on new hand-built models."
 }

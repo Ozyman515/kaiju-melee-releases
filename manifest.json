@@ -1,8 +1,8 @@
 {
- "build": 41,
- "version": "0.23.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-41.pck",
- "pck_sha256": "5db7eb31de93e611966b06c6ecacfe9534cbd3d3af516506aec0ced0b7399da7",
- "pck_size": 42354788,
- "notes": "v0.23.0: a new kaiju, the Opabinia (name to come), with a psychic wave beam that shoves foes back."
+ "build": 42,
+ "version": "0.24.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-42.pck",
+ "pck_sha256": "ac78c0f9924ed3e1a7ad15de1a57677d0a5f71b6014cdee6d20a74b201ba0433",
+ "pck_size": 42354756,
+ "notes": "v0.24.0: every monster and ally fights on its hand-built model again; the ice crystal reptile and the Opabinia are out until their hand-built models are ready."
 }

@@ -1,8 +1,8 @@
 {
- "build": 43,
- "version": "0.25.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-43.pck",
- "pck_sha256": "6e5f42da093200cb63a08ac3598f40354919ae105d090d95a865802a5533cc1a",
- "pck_size": 42368796,
- "notes": "v0.25.0: the Ice Crystal Reptile and the Opabinia are back, on new hand-built models."
+ "build": 44,
+ "version": "0.26.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-44.pck",
+ "pck_sha256": "2d0ba736b44f61716d43277a577e1914ad017c2001c9ae05736286d3dc759cd5",
+ "pck_size": 42373420,
+ "notes": "v0.26.0: monster intros before each match (a close-up, the name card and a roar; any button skips)."
 }

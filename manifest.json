@@ -1,8 +1,8 @@
 {
- "build": 47,
- "version": "0.28.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-47.pck",
- "pck_sha256": "2146395af1c43bec848b80da1a9e0e4f5c80d19490dead0369169298a35ef6f2",
- "pck_size": 42454132,
- "notes": "v0.28.1: the Alien Mothership and American Bunker are boxed in by walls (see-through from outside, so they never block the camera)."
+ "build": 48,
+ "version": "0.28.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-48.pck",
+ "pck_sha256": "e98f161a1a905f9beaf11f61bfbafe9ea5cb1ccc575e4d013d962a3e2af0f722",
+ "pck_size": 42463508,
+ "notes": "v0.28.2: Atlantis gets a glass dome with a gold frame, and fish, sharks, manta rays, sea turtles, whales and jellyfish swimming round outside it."
 }

@@ -1,8 +1,8 @@
 {
- "build": 45,
- "version": "0.27.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-45.pck",
- "pck_sha256": "833278390f4592ece8483025d2bebdb5398e0a6c8397a0bedc29ec2de5cf3a9a",
- "pck_size": 42410152,
- "notes": "v0.27.0: the final roster with names and lore, new colossi Xikamux and Subator, and new allies for every monster."
+ "build": 46,
+ "version": "0.28.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-46.pck",
+ "pck_sha256": "7abda7dd108fbf9ab5ca25197a0441ba1b3cd9c884976070e674ea4cad81eef9",
+ "pck_size": 42453332,
+ "notes": "v0.28.0: stage select with new stages: Kaiju Jungle, Desert Mesa (and in snow), Coast (throw the battleships), Alien Mothership, American Bunker, Atlantis, South American Pyramids, plus the city by night and in snow. The army's jets are now Super Hornets."
 }

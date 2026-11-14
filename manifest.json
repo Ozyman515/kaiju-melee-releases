@@ -1,8 +1,8 @@
 {
- "build": 49,
- "version": "0.29.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-49.pck",
- "pck_sha256": "8309ff686aef8a8e7b0d78ca74e41ed3eee385fdccc1302ac40512c04745fc6b",
- "pck_size": 42467568,
- "notes": "v0.29.0: Atlantis and the Alien Mothership get their own armies (clam tanks and flying fish; floating ray-gun ships and small UFOs). Xikamux's drill and Subator's saw blade now spin."
+ "build": 50,
+ "version": "0.29.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-50.pck",
+ "pck_sha256": "72e26c8bda780599f3fc075de95b100bf3c9abfb1c6b58f5413254a4fbcb9bff",
+ "pck_size": 42469248,
+ "notes": "v0.29.1: Subator walks on four legs. The American Bunker is olive drab, with supply crates, fuel drums and sandbags to throw. The snowy mesa is now the Arctic Wasteland: white rock and blue ice."
 }

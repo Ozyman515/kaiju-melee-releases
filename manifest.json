@@ -1,8 +1,8 @@
 {
- "build": 44,
- "version": "0.26.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-44.pck",
- "pck_sha256": "2d0ba736b44f61716d43277a577e1914ad017c2001c9ae05736286d3dc759cd5",
- "pck_size": 42373420,
- "notes": "v0.26.0: monster intros before each match (a close-up, the name card and a roar; any button skips)."
+ "build": 45,
+ "version": "0.27.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-45.pck",
+ "pck_sha256": "833278390f4592ece8483025d2bebdb5398e0a6c8397a0bedc29ec2de5cf3a9a",
+ "pck_size": 42410152,
+ "notes": "v0.27.0: the final roster with names and lore, new colossi Xikamux and Subator, and new allies for every monster."
 }

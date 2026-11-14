@@ -1,8 +1,8 @@
 {
- "build": 48,
- "version": "0.28.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-48.pck",
- "pck_sha256": "e98f161a1a905f9beaf11f61bfbafe9ea5cb1ccc575e4d013d962a3e2af0f722",
- "pck_size": 42463508,
- "notes": "v0.28.2: Atlantis gets a glass dome with a gold frame, and fish, sharks, manta rays, sea turtles, whales and jellyfish swimming round outside it."
+ "build": 49,
+ "version": "0.29.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-49.pck",
+ "pck_sha256": "8309ff686aef8a8e7b0d78ca74e41ed3eee385fdccc1302ac40512c04745fc6b",
+ "pck_size": 42467568,
+ "notes": "v0.29.0: Atlantis and the Alien Mothership get their own armies (clam tanks and flying fish; floating ray-gun ships and small UFOs). Xikamux's drill and Subator's saw blade now spin."
 }

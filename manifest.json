@@ -1,8 +1,8 @@
 {
- "build": 51,
- "version": "0.30.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-51.pck",
- "pck_sha256": "4cf9dabe5b1d7b67c86de972d4e3a10d158b76985c9071cb3218bd889fed6121",
- "pck_size": 42476240,
- "notes": "v0.30.0: third-person mode vs the CPU: over-the-shoulder camera, aim with the reticle, turn away freely, lock on with Tab / middle mouse / R3. Sounds evened out. Monster select: the monsters are no longer hidden behind buildings, your last picks stay selected, and the lore is shown. All the ray-gun UFOs are now Subator's shoulder ships."
+ "build": 52,
+ "version": "0.31.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-52.pck",
+ "pck_sha256": "1d6eb2748ef80d2a7d46067a9f5ddbdf397e54a3f6bf4c4a976107e9c94b4138",
+ "pck_size": 42478256,
+ "notes": "v0.31.0: select screen shows just name and title. Every round starts facing the enemy. Beams are blocked by buildings and terrain. Foam, frost and the other effects now cover every part of every monster. Switch camera mid-fight (V / hold R3). Run button (C / L3) that uses energy. The CPU turns and runs for tokens, or shoots from range if you're nearer."
 }

@@ -1,8 +1,8 @@
 {
- "build": 54,
- "version": "0.32.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-54.pck",
- "pck_sha256": "4080f2fa419835f7a15e10cff9392eaac932cc5dd6454af1b885f840b3ac4d7a",
- "pck_size": 42486532,
- "notes": "v0.32.1: Xikamux's shoulders are proper clam shells (a shut clam under the open pearl clam, no more flat fans), and all his shells are cupped. Against the CPU, health items always look like your own monster's food."
+ "build": 55,
+ "version": "0.32.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-55.pck",
+ "pck_sha256": "65c6db3eb30dab135e3e4c56dc80b8b68d74202400cffd3a698e446b8fe18e15",
+ "pck_size": 42486196,
+ "notes": "v0.32.2: Xikamux is back to how he was before v0.32.1. His ally At'ateu's flat wings are replaced with Xikamux's shoulder clam shells."
 }

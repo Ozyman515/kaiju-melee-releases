@@ -1,8 +1,8 @@
 {
- "build": 50,
- "version": "0.29.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-50.pck",
- "pck_sha256": "72e26c8bda780599f3fc075de95b100bf3c9abfb1c6b58f5413254a4fbcb9bff",
- "pck_size": 42469248,
- "notes": "v0.29.1: Subator walks on four legs. The American Bunker is olive drab, with supply crates, fuel drums and sandbags to throw. The snowy mesa is now the Arctic Wasteland: white rock and blue ice."
+ "build": 51,
+ "version": "0.30.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-51.pck",
+ "pck_sha256": "4cf9dabe5b1d7b67c86de972d4e3a10d158b76985c9071cb3218bd889fed6121",
+ "pck_size": 42476240,
+ "notes": "v0.30.0: third-person mode vs the CPU: over-the-shoulder camera, aim with the reticle, turn away freely, lock on with Tab / middle mouse / R3. Sounds evened out. Monster select: the monsters are no longer hidden behind buildings, your last picks stay selected, and the lore is shown. All the ray-gun UFOs are now Subator's shoulder ships."
 }

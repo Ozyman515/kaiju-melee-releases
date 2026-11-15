@@ -1,8 +1,8 @@
 {
- "build": 53,
- "version": "0.32.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-53.pck",
- "pck_sha256": "b33286062db53ae138cb69f30513c8da48c6e3ea85735a78ed3d7792f9a2d3be",
- "pck_size": 42486132,
- "notes": "v0.32.0: the Alien Mothership is now inside the UFO, and the bunker is the Kaiju Research Facility (Area 54), both with ceilings. Health items are hidden in buildings and terrain each round: a green health token, King Gaboon's giant banana or K'aawl's sad soul."
+ "build": 54,
+ "version": "0.32.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-54.pck",
+ "pck_sha256": "4080f2fa419835f7a15e10cff9392eaac932cc5dd6454af1b885f840b3ac4d7a",
+ "pck_size": 42486532,
+ "notes": "v0.32.1: Xikamux's shoulders are proper clam shells (a shut clam under the open pearl clam, no more flat fans), and all his shells are cupped. Against the CPU, health items always look like your own monster's food."
 }

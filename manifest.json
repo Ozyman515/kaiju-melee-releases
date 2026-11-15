@@ -1,8 +1,8 @@
 {
- "build": 52,
- "version": "0.31.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-52.pck",
- "pck_sha256": "1d6eb2748ef80d2a7d46067a9f5ddbdf397e54a3f6bf4c4a976107e9c94b4138",
- "pck_size": 42478256,
- "notes": "v0.31.0: select screen shows just name and title. Every round starts facing the enemy. Beams are blocked by buildings and terrain. Foam, frost and the other effects now cover every part of every monster. Switch camera mid-fight (V / hold R3). Run button (C / L3) that uses energy. The CPU turns and runs for tokens, or shoots from range if you're nearer."
+ "build": 53,
+ "version": "0.32.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-53.pck",
+ "pck_sha256": "b33286062db53ae138cb69f30513c8da48c6e3ea85735a78ed3d7792f9a2d3be",
+ "pck_size": 42486132,
+ "notes": "v0.32.0: the Alien Mothership is now inside the UFO, and the bunker is the Kaiju Research Facility (Area 54), both with ceilings. Health items are hidden in buildings and terrain each round: a green health token, King Gaboon's giant banana or K'aawl's sad soul."
 }

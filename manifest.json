@@ -1,8 +1,8 @@
 {
- "build": 55,
- "version": "0.32.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-55.pck",
- "pck_sha256": "65c6db3eb30dab135e3e4c56dc80b8b68d74202400cffd3a698e446b8fe18e15",
- "pck_size": 42486196,
- "notes": "v0.32.2: Xikamux is back to how he was before v0.32.1. His ally At'ateu's flat wings are replaced with Xikamux's shoulder clam shells."
+ "build": 56,
+ "version": "0.33.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-56.pck",
+ "pck_sha256": "16d83a1276a21789c8b52ae3d0517eb36e69f6d996686570398c5371d55ba492",
+ "pck_size": 42509356,
+ "notes": "v0.33.0: every monster has its own health food (banana, sad soul, meat on the bone, yellowfin tuna, humpback whale, lobster, apple, fertilizer tank, ray-gun UFO, navy nuclear reactor). New TROPHIES room on the title screen: monsters, allies, tokens and army units as statues. Find them hidden in buildings during fights; monster trophies come with story mode."
 }

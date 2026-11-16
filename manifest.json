@@ -1,8 +1,8 @@
 {
- "build": 56,
- "version": "0.33.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-56.pck",
- "pck_sha256": "16d83a1276a21789c8b52ae3d0517eb36e69f6d996686570398c5371d55ba492",
- "pck_size": 42509356,
- "notes": "v0.33.0: every monster has its own health food (banana, sad soul, meat on the bone, yellowfin tuna, humpback whale, lobster, apple, fertilizer tank, ray-gun UFO, navy nuclear reactor). New TROPHIES room on the title screen: monsters, allies, tokens and army units as statues. Find them hidden in buildings during fights; monster trophies come with story mode."
+ "build": 57,
+ "version": "0.33.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-57.pck",
+ "pck_sha256": "482cfb8cc9119730e13ec431f1fb845476740ffa742ad4055d198e322047977d",
+ "pck_size": 42509740,
+ "notes": "v0.33.1: the trophy room is a plain dark background with the trophy on a dark platform under a spotlight. Every trophy is unlocked for testing."
 }

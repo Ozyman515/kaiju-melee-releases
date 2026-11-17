@@ -1,8 +1,8 @@
 {
- "build": 57,
- "version": "0.33.1",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-57.pck",
- "pck_sha256": "482cfb8cc9119730e13ec431f1fb845476740ffa742ad4055d198e322047977d",
- "pck_size": 42509740,
- "notes": "v0.33.1: the trophy room is a plain dark background with the trophy on a dark platform under a spotlight. Every trophy is unlocked for testing."
+ "build": 58,
+ "version": "0.33.2",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-58.pck",
+ "pck_sha256": "82faa89d2938ba139450e38eea13265f8b421c534c4b71b9207f0f523c3bcc5d",
+ "pck_size": 42512556,
+ "notes": "v0.33.2: trophy room: the gold trophy stands on the dark platform again, dark blue and purple background, a see-through panel behind the text, and real button prompts for keyboard or controller. The meat, tuna, whale and lobster health items follow the new art, and K'aawl's is a cloud of little sad souls."
 }

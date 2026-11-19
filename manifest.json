@@ -1,8 +1,8 @@
 {
- "build": 58,
- "version": "0.33.2",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-58.pck",
- "pck_sha256": "82faa89d2938ba139450e38eea13265f8b421c534c4b71b9207f0f523c3bcc5d",
- "pck_size": 42512556,
- "notes": "v0.33.2: trophy room: the gold trophy stands on the dark platform again, dark blue and purple background, a see-through panel behind the text, and real button prompts for keyboard or controller. The meat, tuna, whale and lobster health items follow the new art, and K'aawl's is a cloud of little sad souls."
+ "build": 59,
+ "version": "0.33.3",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-59.pck",
+ "pck_sha256": "1e903b1706dafc08e658ba7857ef1cbc51aaf96e065c766029fd74ba145c499f",
+ "pck_size": 42518160,
+ "notes": "v0.33.3: trophy room: dark bluish background, the gold trophy on a dark purple platform, real button icons for keyboard or controller. Xikamux's drill arm has spiral flutes so you can see it spin. Xikamux's shoulder shells are blue, Subator's green."
 }

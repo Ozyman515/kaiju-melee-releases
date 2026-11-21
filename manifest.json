@@ -1,8 +1,8 @@
 {
- "build": 60,
- "version": "0.34.0",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-60.pck",
- "pck_sha256": "041b8e1364758268c64eea559e33f38bce671d8024bd52a110d9048b7261707e",
- "pck_size": 42525628,
- "notes": "v0.34.0: MOVESET on the pause menu: every move of your monster with its buttons for your keyboard or controller (left/right for the other player in 2P)."
+ "build": 61,
+ "version": "0.34.1",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-61.pck",
+ "pck_sha256": "37b438db2eacdeb1c5dad5e6b2a0c7ba8c9a2dedc5962af4ec0d3cc6832cc981",
+ "pck_size": 42527660,
+ "notes": "v0.34.1: trophies render at full resolution, you can turn them yourself (right stick, Q/E and R/F, or drag with the mouse; wheel zooms), and colossi stand upright. The trophy room replaces the monster viewer on the title screen."
 }

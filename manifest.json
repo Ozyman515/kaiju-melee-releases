@@ -1,8 +1,8 @@
 {
- "build": 59,
- "version": "0.33.3",
- "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-59.pck",
- "pck_sha256": "1e903b1706dafc08e658ba7857ef1cbc51aaf96e065c766029fd74ba145c499f",
- "pck_size": 42518160,
- "notes": "v0.33.3: trophy room: dark bluish background, the gold trophy on a dark purple platform, real button icons for keyboard or controller. Xikamux's drill arm has spiral flutes so you can see it spin. Xikamux's shoulder shells are blue, Subator's green."
+ "build": 60,
+ "version": "0.34.0",
+ "pck_url": "https://raw.githubusercontent.com/Ozyman515/kaiju-melee-releases/main/builds/game-60.pck",
+ "pck_sha256": "041b8e1364758268c64eea559e33f38bce671d8024bd52a110d9048b7261707e",
+ "pck_size": 42525628,
+ "notes": "v0.34.0: MOVESET on the pause menu: every move of your monster with its buttons for your keyboard or controller (left/right for the other player in 2P)."
 }
